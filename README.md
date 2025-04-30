@@ -1,6 +1,8 @@
-## SOBRE ESSE PROJETO
+## Sobre esse projeto
 
-Este projeto contém um código bem introdutório em relação a integração de um banco de dados Postgres com a linguagem Golang. Dessa forma, podemos manipular as informações salvas no baco de dados a partir de operações de leitura, inserção, atualização e exclusão
+Este projeto contém um código bem introdutório em relação a integração de um banco de dados `Postgres` com a linguagem `Golang`. Dessa forma, podemos manipular as informações salvas no baco de dados a partir de operações de leitura, inserção, atualização e exclusão
+
+Além disso, cada linha do algoritmo foi comentada explicando que está sendo feito nela, a fim de facilitar a compreensão do código por completo
 
 ---
 
@@ -14,4 +16,4 @@ Caso você queira replicar esse código na sua casa de forma manual, será neces
 
 ## Tudo pronto!
 
-Agora vc já tem o seu ambiente totalmente configurado, e pode começar a criar seu código ou copiar de forma manual esse projeto. Caso você queira pular essas etapas (o que eu não recomendo, visto que fazendo manualmente fica mais fácil de fixar) você pode fazer um  `git clone` desse repositório
+Agora você já tem o seu ambiente totalmente configurado, e pode começar a criar seu código ou copiar de forma manual esse projeto. Caso você queira pular essas etapas (o que eu não recomendo, visto que fazendo manualmente fica mais fácil de fixar) você pode fazer um  `git clone` desse repositório
